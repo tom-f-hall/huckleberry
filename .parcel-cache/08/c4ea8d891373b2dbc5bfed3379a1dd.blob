@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: rgb(153, 153, 153);
+  border-top: 5px solid rgb(102, 102, 102);
+}
+
+.max-width-wrapper {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+p > strong {
+  color: rgb(0, 153, 102);
+}
+
+.card {
+  background-color: white;
+  border-bottom: 5px solid rgb(102, 102, 102);
+}
+
+/* Add styles here! */

@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.intro-chunk {
+  padding-top: 60px;
+  padding-bottom: 40px;
+  max-width: 300px;
+}
+
+header h1 {
+  padding-bottom: 30px;
+}
+
+strong {
+  color: green;
+}
+
+.max-width-wrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+main {
+  background-color: lightgray;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+main h2 {
+  background-color: orange;
+  padding: 10px 20px;
+  border-bottom-color: darkorange;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  width: fit-content;
+  margin: 0 0 0 -30px;
+  font-size: 1.1rem;
+}
+
+.card {
+  background-color: white;
+  border-bottom: 5px solid rgb(102, 102, 102);
+  padding: 16px;
+}
+
+.indented-heading {
+  background-color: rgb(254, 192, 0);
+  border-bottom: 5px solid rgb(205, 153, 0);
+}
+
+/* Add styles here! */
+
+/*# sourceMappingURL=index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css.map */

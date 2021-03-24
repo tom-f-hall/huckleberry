@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.max-width-wrapper {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+p > strong {
+  color: rgb(0, 153, 102);
+}
+
+/* Add styles here! */
+
+/*# sourceMappingURL=index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css.map */

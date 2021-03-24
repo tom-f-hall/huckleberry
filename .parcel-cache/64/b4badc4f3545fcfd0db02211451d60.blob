@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.max-width-wrapper {
+  max-width: 500px;
+}
+
+/* Add styles here! */
